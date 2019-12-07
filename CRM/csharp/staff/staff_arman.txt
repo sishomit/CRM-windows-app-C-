@@ -1,0 +1,6 @@
+Name: arman
+Age: 29
+Address: zhenjiang
+Gender: Male
+Stafflevel: High
+Performance: Fair

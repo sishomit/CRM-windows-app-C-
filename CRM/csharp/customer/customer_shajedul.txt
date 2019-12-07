@@ -1,0 +1,7 @@
+Name: shajedul
+Age: 10
+Address: zhenjiang
+Gender: Male
+VIP: Very High
+Interest: Product1
+Hobby: Reading

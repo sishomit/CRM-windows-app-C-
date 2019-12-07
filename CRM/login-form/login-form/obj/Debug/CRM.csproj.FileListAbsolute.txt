@@ -1,0 +1,15 @@
+G:\Class\login-form\login-form\bin\Debug\login-form.exe.config
+G:\Class\login-form\login-form\bin\Debug\login-form.exe
+G:\Class\login-form\login-form\bin\Debug\login-form.pdb
+G:\Class\login-form\login-form\obj\Debug\CRM.csprojAssemblyReference.cache
+G:\Class\login-form\login-form\obj\Debug\login_form.Form1.resources
+G:\Class\login-form\login-form\obj\Debug\login_form.staff.resources
+G:\Class\login-form\login-form\obj\Debug\login_form.Customer.resources
+G:\Class\login-form\login-form\obj\Debug\login_form.Properties.Resources.resources
+G:\Class\login-form\login-form\obj\Debug\CRM.csproj.GenerateResource.cache
+G:\Class\login-form\login-form\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+G:\Class\login-form\login-form\obj\Debug\login-form.exe
+G:\Class\login-form\login-form\obj\Debug\login-form.pdb
+G:\Class\login-form\login-form\obj\Debug\login_form.Datamenu.resources
+G:\Class\login-form\login-form\obj\Debug\login_form.serachcustomer.resources
+G:\Class\login-form\login-form\obj\Debug\login_form.searchstaff.resources

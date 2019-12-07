@@ -1,0 +1,7 @@
+Name: smitha
+Age: 16
+Address: henan
+Gender: Female
+VIP: Very High
+Interest: Ball
+Hobby: Reading

@@ -1,0 +1,6 @@
+Name: shomit
+Age: 22
+Address: jiangsu university
+Gender: Male
+Stafflevel: Very High
+Performance: Excellent

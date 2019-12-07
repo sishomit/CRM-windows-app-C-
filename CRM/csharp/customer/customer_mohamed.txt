@@ -1,0 +1,7 @@
+Name: mohamed
+Age: 10
+Address: china
+Gender: Male
+VIP: Very High
+Interest: Product2
+Hobby: Reading

@@ -1,0 +1,6 @@
+Name: mimi
+Age: 25
+Address: rangpur
+Gender: Female
+Stafflevel: Low
+Performance: Fair
